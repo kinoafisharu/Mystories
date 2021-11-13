@@ -1,0 +1,7 @@
+venv
+.idea
+.git
+*.sqlite3
+runtime
+project_version
+pip_cmd

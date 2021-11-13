@@ -1,1 +1,0 @@
-1.0 - Install Django and Django REST Framework
