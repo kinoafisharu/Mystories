@@ -5,3 +5,6 @@ venv
 runtime
 project_version
 pip_cmd
+__pycache__/
+*.рус
+venv/
