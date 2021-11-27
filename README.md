@@ -1,2 +1,2 @@
 # Mystories
-install Django
+
